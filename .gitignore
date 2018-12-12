@@ -81,6 +81,9 @@ ipython_config.py
 # pyenv
 .python-version
 
+# pyenv-emacs
+.dir-locals.el
+
 # celery beat schedule file
 celerybeat-schedule
 
